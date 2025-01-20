@@ -1,0 +1,8 @@
+com\indeed\server\service\PostServiceImpl.class
+com\indeed\server\model\PostModel.class
+com\indeed\server\service\PostService.class
+com\indeed\server\dao\PostDao.class
+com\indeed\server\config\MongoConfig.class
+com\indeed\server\ServerApplication.class
+com\indeed\server\controller\PostController.class
+com\indeed\server\dto\PostDTO.class
